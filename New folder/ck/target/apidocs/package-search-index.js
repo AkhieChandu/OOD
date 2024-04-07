@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.github.mauricioaniche.ck"},{"l":"com.github.mauricioaniche.ck.metric"},{"l":"com.github.mauricioaniche.ck.util"}];updateSearchResults();
