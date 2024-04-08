@@ -1,0 +1,238 @@
+1. Metrics Details For File 'arthas-grpc-web-proxy\src\main\java\com\taobao\arthas\grpcweb\grpc\server\httpServer\NettyHttpServer.java'
+--------------------------------------------------------------------------------------------
+
+Parameter				Value
+=========				=====
+Project Directory			C:\Users\Alekhya Changelpet\Downloads\arthas-master\arthas-master\
+Project Name				
+Checkpoint Name				AllFiles
+File Name				arthas-grpc-web-proxy\src\main\java\com\taobao\arthas\grpcweb\grpc\server\httpServer\NettyHttpServer.java
+Lines					35*
+Statements				27
+Percent Branch Statements		0.0
+Method Call Statements			7
+Percent Lines with Comments		0.0
+Classes and Interfaces			1
+Methods per Class			2.00
+Average Statements per Method		6.50
+Line Number of Most Complex Method	21
+Name of Most Complex Method		NettyHttpServer.start()
+Maximum Complexity			1*
+Line Number of Deepest Block		30
+Maximum Block Depth			3
+Average Block Depth			1.41
+Average Complexity			1.00*
+
+--------------------------------------------------------------------------------------------
+Most Complex Methods in 1 Class(es):	Complexity, Statements, Max Depth, Calls
+
+NettyHttpServer.NettyHttpServer()	1*, 2, 2, 0
+NettyHttpServer.start()			1*, 11, 3, 6
+
+--------------------------------------------------------------------------------------------
+Block Depth				Statements
+
+0					9
+1					5
+2					6
+3					7
+4					0
+5					0
+6					0
+7					0
+8					0
+9+					0
+--------------------------------------------------------------------------------------------
+
+2. Metrics Details For File 'apollo-adminservice\src\main\java\com\ctrip\framework\apollo\adminservice\controller\ItemSetController.java'
+--------------------------------------------------------------------------------------------
+
+Parameter				Value
+=========				=====
+Project Directory			C:\Users\Alekhya Changelpet\Downloads\apollo-master\apollo-master\
+Project Name				
+Checkpoint Name				AllFiles
+File Name				apollo-adminservice\src\main\java\com\ctrip\framework\apollo\adminservice\controller\ItemSetController.java
+Lines					40*
+Statements				19
+Percent Branch Statements		0.0
+Method Call Statements			2
+Percent Lines with Comments		0.0
+Classes and Interfaces			1
+Methods per Class			2.00
+Average Statements per Method		1.50
+Line Number of Most Complex Method	34
+Name of Most Complex Method		ItemSetController.create()
+Maximum Complexity			1*
+Line Number of Deepest Block		35
+Maximum Block Depth			2
+Average Block Depth			0.53
+Average Complexity			1.00*
+
+--------------------------------------------------------------------------------------------
+Most Complex Methods in 1 Class(es):	Complexity, Statements, Max Depth, Calls
+
+ItemSetController.create()		1*, 2, 2, 2
+ItemSetController.ItemSetController()	1*, 1, 2, 0
+
+--------------------------------------------------------------------------------------------
+Block Depth				Statements
+
+0					12
+1					4
+2					3
+3					0
+4					0
+5					0
+6					0
+7					0
+8					0
+9+					0
+--------------------------------------------------------------------------------------------
+
+3. Metrics Details For File 'miaosha-admin\miaosha-admin-api\src\main\java\com\geekq\admin\query\IpLogQueryObject.java'
+--------------------------------------------------------------------------------------------
+
+Parameter				Value
+=========				=====
+Project Directory			C:\Users\Alekhya Changelpet\Downloads\miaosha-master\miaosha-master\
+Project Name				
+Checkpoint Name				AllFiles
+File Name				miaosha-admin\miaosha-admin-api\src\main\java\com\geekq\admin\query\IpLogQueryObject.java
+Lines					35*
+Statements				24
+Percent Branch Statements		4.2
+Method Call Statements			1
+Percent Lines with Comments		14.3
+Classes and Interfaces			1
+Methods per Class			3.00
+Average Statements per Method		1.67
+Line Number of Most Complex Method	31
+Name of Most Complex Method		IpLogQueryObject.getEndDate()
+Maximum Complexity			2*
+Line Number of Deepest Block		33
+Maximum Block Depth			3
+Average Block Depth			0.92
+Average Complexity			1.33*
+
+--------------------------------------------------------------------------------------------
+Most Complex Methods in 1 Class(es):	Complexity, Statements, Max Depth, Calls
+
+IpLogQueryObject.getEndDate()		2*, 3, 3, 1
+IpLogQueryObject.setBeginDate()		1*, 1, 2, 0
+IpLogQueryObject.setEndDate()		1*, 1, 2, 0
+
+--------------------------------------------------------------------------------------------
+Block Depth				Statements
+
+0					8
+1					11
+2					4
+3					1
+4					0
+5					0
+6					0
+7					0
+8					0
+9+					0
+--------------------------------------------------------------------------------------------
+
+4. Metrics Details For File 'app\src\main\java\com\scwang\refreshlayout\activity\practice\QQBrowserPracticeActivity.java'
+--------------------------------------------------------------------------------------------
+
+Parameter				Value
+=========				=====
+Project Directory			C:\Users\Alekhya Changelpet\Downloads\SmartRefreshLayout-main\SmartRefreshLayout-main\
+Project Name				
+Checkpoint Name				AllFiles
+File Name				app\src\main\java\com\scwang\refreshlayout\activity\practice\QQBrowserPracticeActivity.java
+Lines					42*
+Statements				25
+Percent Branch Statements		0.0
+Method Call Statements			11
+Percent Lines with Comments		9.5
+Classes and Interfaces			2
+Methods per Class			0.50
+Average Statements per Method		11.00
+Line Number of Most Complex Method	23
+Name of Most Complex Method		QQBrowserPracticeActivity.onCreate()
+Maximum Complexity			3*
+Line Number of Deepest Block		24
+Maximum Block Depth			2
+Average Block Depth			1.00
+Average Complexity			3.00*
+
+--------------------------------------------------------------------------------------------
+Most Complex Methods in 1 Class(es):	Complexity, Statements, Max Depth, Calls
+
+QQBrowserPracticeActivity.onCreate()	3*, 11, 2, 11
+
+--------------------------------------------------------------------------------------------
+Block Depth				Statements
+
+0					11
+1					3
+2					11
+3					0
+4					0
+5					0
+6					0
+7					0
+8					0
+9+					0
+--------------------------------------------------------------------------------------------
+
+5. Metrics Details For File 'hutool-aop\src\main\java\cn\hutool\aop\proxy\JdkProxyFactory.java'
+--------------------------------------------------------------------------------------------
+
+Parameter				Value
+=========				=====
+Project Directory			C:\Users\Alekhya Changelpet\Downloads\hutool-5-master\hutool-5-master\
+Project Name				
+Checkpoint Name				AllFiles
+File Name				hutool-aop\src\main\java\cn\hutool\aop\proxy\JdkProxyFactory.java
+Lines					19*
+Statements				9
+Percent Branch Statements		0.0
+Method Call Statements			4
+Percent Lines with Comments		42.1
+Classes and Interfaces			1
+Methods per Class			1.00
+Average Statements per Method		1.00
+Line Number of Most Complex Method	16
+Name of Most Complex Method		JdkProxyFactory.proxy()
+Maximum Complexity			1*
+Line Number of Deepest Block		20
+Maximum Block Depth			2
+Average Block Depth			0.56
+Average Complexity			1.00*
+
+--------------------------------------------------------------------------------------------
+Most Complex Methods in 1 Class(es):	Complexity, Statements, Max Depth, Calls
+
+JdkProxyFactory.proxy()			1*, 1, 2, 4
+
+--------------------------------------------------------------------------------------------
+Block Depth				Statements
+
+0					5
+1					3
+2					1
+3					0
+4					0
+5					0
+6					0
+7					0
+8					0
+9+					0
+--------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
