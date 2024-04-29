@@ -1,0 +1,605 @@
+1.Metrics Details For File 'animated-base\src\main\java\com\facebook\fresco\animation\factory\DefaultBitmapAnimationDrawableFactory.java'
+--------------------------------------------------------------------------------------------
+
+Parameter				Value
+=========				=====
+Project Directory			C:\Users\Alekhya Changelpet\Downloads\fresco-main\fresco-main\
+Project Name				
+Checkpoint Name				AllFiles
+File Name				animated-base\src\main\java\com\facebook\fresco\animation\factory\DefaultBitmapAnimationDrawableFactory.java
+Lines					216*
+Statements				137
+Percent Branch Statements		12.4
+Method Call Statements			29
+Percent Lines with Comments		0.9
+Classes and Interfaces			1
+Methods per Class			9.00
+Average Statements per Method		6.56
+Line Number of Most Complex Method	149
+Name of Most Complex Method		DefaultBitmapAnimationDrawableFactory.createAnimationBackend()
+Maximum Complexity			4*
+Line Number of Deepest Block		221
+Maximum Block Depth			4
+Average Block Depth			1.23
+Average Complexity			1.89*
+
+--------------------------------------------------------------------------------------------
+Most Complex Methods in 1 Class(es):	Complexity, Statements, Max Depth, Calls
+
+DefaultBitmapAnimationDrawableFactory.createAnimatedDrawableBackend()	1*, 3, 2, 4
+DefaultBitmapAnimationDrawableFactory.createAnimatedFrameCache()	1*, 1, 2, 2
+DefaultBitmapAnimationDrawableFactory.createAnimationBackend()	4*, 17, 3, 12
+DefaultBitmapAnimationDrawableFactory.createBitmapFrameCache()	2*, 10, 4, 1
+DefaultBitmapAnimationDrawableFactory.createBitmapFramePreparer()	1*, 1, 2, 0
+DefaultBitmapAnimationDrawableFactory.createDrawable()	3*, 7, 3, 5
+DefaultBitmapAnimationDrawableFactory.createDrawable()	3*, 7, 3, 5
+DefaultBitmapAnimationDrawableFactory.DefaultBitmapAnimationDrawableFactory()	1*, 12, 2, 0
+DefaultBitmapAnimationDrawableFactory.supportsImageType()	1*, 1, 2, 0
+
+--------------------------------------------------------------------------------------------
+Block Depth				Statements
+
+0					49
+1					29
+2					41
+3					14
+4					4
+5					0
+6					0
+7					0
+8					0
+9+					0
+--------------------------------------------------------------------------------------------
+
+
+
+2. Metrics Details For File 'catalog\java\io\material\catalog\adaptive\AdaptiveListViewDemoFragment.java'
+--------------------------------------------------------------------------------------------
+
+Parameter				Value
+=========				=====
+Project Directory			C:\Users\Alekhya Changelpet\Desktop\Sem 1\Object Oriented Development\Group Assignmemt\Assign2\Programs\material-components-android-master\
+Project Name				
+Checkpoint Name				AllFiles
+File Name				catalog\java\io\material\catalog\adaptive\AdaptiveListViewDemoFragment.java
+Lines					246*
+Statements				135
+Percent Branch Statements		6.7
+Method Call Statements			47
+Percent Lines with Comments		11.0
+Classes and Interfaces			7
+Methods per Class			2.86
+Average Statements per Method		3.10
+Line Number of Most Complex Method	55
+Name of Most Complex Method		?(instance of MaterialContainerTransform).onEmailClicked()
+Maximum Complexity			4*
+Line Number of Deepest Block		248
+Maximum Block Depth			5
+Average Block Depth			2.10
+Average Complexity			1.58*
+
+--------------------------------------------------------------------------------------------
+Most Complex Methods in 6 Class(es):	Complexity, Statements, Max Depth, Calls
+
+?(instance of MaterialContainerTransform).onEmailClicked()	4*, 11, 4, 9
+AdaptiveListViewDemoFragment.onCreateView()	1*, 1, 2, 1
+AdaptiveListViewDemoFragment.onViewCreated()	2*, 8, 3, 7
+AdaptiveListViewDemoFragment.setDetailViewContainerId()	1*, 1, 2, 0
+AdaptiveListViewDemoFragment.setEmailSelected()	3*, 7, 3, 3
+Email.Email()				1*, 2, 4, 0
+Email.getEmailId()			1*, 1, 4, 0
+Email.isSelected()			1*, 1, 4, 0
+Email.setSelected()			1*, 1, 4, 0
+EmailAdapter.EmailAdapter()		1*, 2, 3, 1
+EmailAdapter.getItemCount()		1*, 1, 3, 0
+EmailAdapter.getItemId()		1*, 1, 3, 1
+EmailAdapter.onBindViewHolder()		3*, 9, 3, 12
+EmailAdapter.onCreateViewHolder()	1*, 2, 3, 1
+EmailAdapter.onViewAttachedToWindow()	1*, 2, 3, 2
+EmailAdapter.updateEmailSelected()	2*, 3, 4, 3
+EmailData.EmailData()			1*, 0, 0, 0
+EmailData.getEmailById()		3*, 4, 5, 1
+EmailViewHolder.EmailViewHolder()	1*, 5, 4, 5
+
+--------------------------------------------------------------------------------------------
+Block Depth				Statements
+
+0					26
+1					14
+2					35
+3					41
+4					18
+5					1
+6					0
+7					0
+8					0
+9+					0
+--------------------------------------------------------------------------------------------
+
+
+
+3. Metrics Details For File 'APIJSONORM\src\main\java\apijson\orm\Join.java'
+--------------------------------------------------------------------------------------------
+
+Parameter				Value
+=========				=====
+Project Directory			C:\Users\Alekhya Changelpet\Desktop\Sem 1\Object Oriented Development\Group Assignmemt\Assign2\Programs\APIJSON-master\
+Project Name				
+Checkpoint Name				AllFiles
+File Name				APIJSONORM\src\main\java\apijson\orm\Join.java
+Lines					278*
+Statements				195
+Percent Branch Statements		8.7
+Method Call Statements			69
+Percent Lines with Comments		8.3
+Classes and Interfaces			2
+Methods per Class			28.50
+Average Statements per Method		1.96
+Line Number of Most Complex Method	241
+Name of Most Complex Method		On.setKeyAndType()
+Maximum Complexity			28*
+Line Number of Deepest Block		271
+Maximum Block Depth			7
+Average Block Depth			2.29
+Average Complexity			1.67*
+
+--------------------------------------------------------------------------------------------
+Most Complex Methods in 2 Class(es):	Complexity, Statements, Max Depth, Calls
+
+Join.canCacheViceTable()		6*, 2, 2, 7
+Join.getAlias()				1*, 1, 2, 0
+Join.getCacheConfig()			1*, 1, 2, 0
+Join.getCount()				1*, 1, 2, 0
+Join.getJoinConfig()			1*, 1, 2, 0
+Join.getJoinType()			1*, 1, 2, 0
+Join.getOnList()			1*, 1, 2, 0
+Join.getOuter()				1*, 1, 2, 0
+Join.getOuterConfig()			1*, 1, 2, 0
+Join.getPath()				1*, 1, 2, 0
+Join.getRequest()			1*, 1, 2, 0
+Join.getTable()				1*, 1, 2, 0
+Join.isAntiJoin()			1*, 1, 2, 1
+Join.isAppJoin()			2*, 1, 2, 1
+Join.isAppJoin()			1*, 1, 2, 1
+Join.isCrossJoin()			1*, 1, 2, 1
+Join.isForeignJoin()			1*, 1, 2, 1
+Join.isFullJoin()			2*, 2, 2, 3
+Join.isInnerJoin()			1*, 1, 2, 1
+Join.isLeftJoin()			1*, 1, 2, 1
+Join.isLeftOrRightJoin()		2*, 1, 2, 1
+Join.isLeftOrRightJoin()		2*, 2, 2, 3
+Join.isOne2Many()			2*, 1, 2, 1
+Join.isOne2One()			1*, 1, 2, 1
+Join.isOuterJoin()			1*, 1, 2, 1
+Join.isRightJoin()			1*, 1, 2, 1
+Join.isSideJoin()			1*, 1, 2, 1
+Join.isSQLJoin()			2*, 1, 2, 1
+Join.isSQLJoin()			1*, 1, 2, 1
+Join.setAlias()				1*, 1, 2, 0
+Join.setCacheConfig()			1*, 1, 2, 0
+Join.setCount()				1*, 1, 2, 0
+Join.setJoinConfig()			1*, 1, 2, 0
+Join.setJoinType()			1*, 1, 2, 0
+Join.setOnList()			1*, 1, 2, 0
+Join.setOuter()				1*, 1, 2, 0
+Join.setOuterConfig()			1*, 1, 2, 0
+Join.setPath()				1*, 1, 2, 0
+Join.setRequest()			1*, 1, 2, 0
+Join.setTable()				1*, 1, 2, 0
+On.getKey()				1*, 1, 3, 0
+On.getLogic()				1*, 1, 3, 0
+On.getOriginKey()			1*, 1, 3, 0
+On.getOriginValue()			1*, 1, 3, 0
+On.getRelateType()			1*, 1, 3, 0
+On.getTargetAlias()			1*, 1, 3, 0
+On.getTargetKey()			1*, 1, 3, 0
+On.getTargetTable()			1*, 1, 3, 0
+On.setKey()				1*, 1, 3, 0
+On.setKeyAndType()			28*, 53, 7, 41
+On.setLogic()				1*, 1, 3, 0
+On.setOriginKey()			1*, 1, 3, 0
+On.setOriginValue()			1*, 1, 3, 0
+On.setRelateType()			1*, 1, 3, 0
+On.setTargetAlias()			1*, 1, 3, 0
+On.setTargetKey()			1*, 1, 3, 0
+On.setTargetTable()			1*, 1, 3, 0
+
+--------------------------------------------------------------------------------------------
+Block Depth				Statements
+
+0					6
+1					52
+2					68
+3					33
+4					26
+5					5
+6					4
+7					1
+8					0
+9+					0
+--------------------------------------------------------------------------------------------
+
+
+4. Metrics Details For File 'mybatis-plus-core\src\main\java\com\baomidou\mybatisplus\core\conditions\segments\MergeSegments.java'
+--------------------------------------------------------------------------------------------
+
+Parameter				Value
+=========				=====
+Project Directory			C:\Users\Alekhya Changelpet\Desktop\Sem 1\Object Oriented Development\Group Assignmemt\Assign2\Programs\mybatis-plus-3.0\
+Project Name				
+Checkpoint Name				AllFiles
+File Name				mybatis-plus-core\src\main\java\com\baomidou\mybatisplus\core\conditions\segments\MergeSegments.java
+Lines					81*
+Statements				47
+Percent Branch Statements		17.0
+Method Call Statements			20
+Percent Lines with Comments		13.6
+Classes and Interfaces			1
+Methods per Class			3.00
+Average Statements per Method		8.67
+Line Number of Most Complex Method	61
+Name of Most Complex Method		MergeSegments.getSqlSegment()
+Maximum Complexity			6*
+Line Number of Deepest Block		68
+Maximum Block Depth			4
+Average Block Depth			1.55
+Average Complexity			4.00*
+
+--------------------------------------------------------------------------------------------
+Most Complex Methods in 1 Class(es):	Complexity, Statements, Max Depth, Calls
+
+MergeSegments.add()			5*, 11, 3, 9
+MergeSegments.clear()			1*, 6, 2, 4
+MergeSegments.getSqlSegment()		6*, 9, 4, 7
+
+--------------------------------------------------------------------------------------------
+Block Depth				Statements
+
+0					9
+1					12
+2					18
+3					7
+4					1
+5					0
+6					0
+7					0
+8					0
+9+					0
+--------------------------------------------------------------------------------------------
+
+
+5. Metrics Details For File 'adswriter\src\main\java\com\alibaba\datax\plugin\writer\adswriter\insert\AdsInsertProxy.java'
+--------------------------------------------------------------------------------------------
+
+Parameter				Value
+=========				=====
+Project Directory			C:\Users\Alekhya Changelpet\Desktop\Sem 1\Object Oriented Development\Group Assignmemt\Assign2\Programs\DataX-master\
+Project Name				
+Checkpoint Name				AllFiles
+File Name				adswriter\src\main\java\com\alibaba\datax\plugin\writer\adswriter\insert\AdsInsertProxy.java
+Lines					594*
+Statements				417
+Percent Branch Statements		28.3
+Method Call Statements			194
+Percent Lines with Comments		8.4
+Classes and Interfaces			4
+Methods per Class			3.50
+Average Statements per Method		24.79
+Line Number of Most Complex Method	489
+Name of Most Complex Method		AdsInsertProxy.prepareColumnTypeValue()
+Maximum Complexity			26*
+Line Number of Deepest Block		170
+Maximum Block Depth			8
+Average Block Depth			3.16
+Average Complexity			8.71*
+
+--------------------------------------------------------------------------------------------
+Most Complex Methods in 1 Class(es):	Complexity, Statements, Max Depth, Calls
+
+AdsInsertProxy.AdsInsertProxy()		9*, 30, 5, 23
+AdsInsertProxy.appendDmlSqlValues()	3*, 7, 3, 8
+AdsInsertProxy.closeResource()		1*, 0, 0, 0
+AdsInsertProxy.doBatchRecord()		5*, 11, 3, 8
+AdsInsertProxy.doBatchRecordDml()	12*, 41, 6, 19
+AdsInsertProxy.doBatchRecordWithPartitionSort()	8*, 10, 4, 4
+AdsInsertProxy.doOneRecord()		5*, 8, 4, 5
+AdsInsertProxy.doOneRecordDml()		10*, 33, 6, 12
+AdsInsertProxy.generateDmlSql()		14*, 49, 6, 31
+AdsInsertProxy.getCRC32()		1*, 4, 2, 3
+AdsInsertProxy.getHashPartition()	2*, 2, 2, 2
+AdsInsertProxy.isRetryable()		3*, 6, 3, 1
+AdsInsertProxy.prepareColumnTypeValue()	26*, 89, 6, 37
+AdsInsertProxy.startWriteWithConnection()	23*, 57, 8, 40
+
+--------------------------------------------------------------------------------------------
+Block Depth				Statements
+
+0					32
+1					38
+2					71
+3					110
+4					79
+5					47
+6					26
+7					10
+8					4
+9+					0
+--------------------------------------------------------------------------------------------
+
+
+6. Metrics Details For File 'runner\AndroidTestOrchestratorSample\app\src\main\java\com\example\android\testing\androidtestorchestratorsample\Calculator.java'
+--------------------------------------------------------------------------------------------
+
+Parameter				Value
+=========				=====
+Project Directory			C:\Users\Alekhya Changelpet\Desktop\Sem 1\Object Oriented Development\Group Assignmemt\Assign2\Programs\testing-samples-main\
+Project Name				
+Checkpoint Name				AllFiles
+File Name				runner\AndroidTestOrchestratorSample\app\src\main\java\com\example\android\testing\androidtestorchestratorsample\Calculator.java
+Lines					48*
+Statements				13
+Percent Branch Statements		0.0
+Method Call Statements			1
+Percent Lines with Comments		31.2
+Classes and Interfaces			2
+Methods per Class			2.00
+Average Statements per Method		1.25
+Line Number of Most Complex Method	31
+Name of Most Complex Method		Calculator.mul()
+Maximum Complexity			1*
+Line Number of Deepest Block		32
+Maximum Block Depth			2
+Average Block Depth			1.15
+Average Complexity			1.00*
+
+--------------------------------------------------------------------------------------------
+Most Complex Methods in 1 Class(es):	Complexity, Statements, Max Depth, Calls
+
+Calculator.add()			1*, 1, 2, 0
+Calculator.div()			1*, 2, 2, 1
+Calculator.mul()			1*, 1, 2, 0
+Calculator.sub()			1*, 1, 2, 0
+
+--------------------------------------------------------------------------------------------
+Block Depth				Statements
+
+0					3
+1					5
+2					5
+3					0
+4					0
+5					0
+6					0
+7					0
+8					0
+9+					0
+--------------------------------------------------------------------------------------------
+
+
+7. Metrics Details For File 'app\src\main\java\com\kunminx\puremusic\data\repository\DataRepository.java'
+--------------------------------------------------------------------------------------------
+
+Parameter				Value
+=========				=====
+Project Directory			C:\Users\Alekhya Changelpet\Desktop\Sem 1\Object Oriented Development\Group Assignmemt\Assign2\Programs\Jetpack-MVVM-Best-Practice-master\
+Project Name				
+Checkpoint Name				AllFiles
+File Name				app\src\main\java\com\kunminx\puremusic\data\repository\DataRepository.java
+Lines					132*
+Statements				70
+Percent Branch Statements		0.0
+Method Call Statements			25
+Percent Lines with Comments		12.1
+Classes and Interfaces			3
+Methods per Class			2.33
+Average Statements per Method		4.57
+Line Number of Most Complex Method	57
+Name of Most Complex Method		DataRepository.getInstance()
+Maximum Complexity			1*
+Line Number of Deepest Block		141
+Maximum Block Depth			8
+Average Block Depth			2.54
+Average Complexity			1.00*
+
+--------------------------------------------------------------------------------------------
+Most Complex Methods in 1 Class(es):	Complexity, Statements, Max Depth, Calls
+
+DataRepository.DataRepository()		1*, 0, 0, 0
+DataRepository.getInstance()		1*, 1, 2, 0
+
+--------------------------------------------------------------------------------------------
+Block Depth				Statements
+
+0					29
+1					5
+2					6
+3					7
+4					5
+5					3
+6					4
+7					7
+8					4
+9+					0
+--------------------------------------------------------------------------------------------
+
+
+8. Metrics Details For File 'contrib\balloonmanagerdemo\com\sun\jna\contrib\demo\BalloonManager.java'
+--------------------------------------------------------------------------------------------
+
+Parameter				Value
+=========				=====
+Project Directory			C:\Users\Alekhya Changelpet\Desktop\Sem 1\Object Oriented Development\Group Assignmemt\Assign2\Programs\jna-master\
+Project Name				
+Checkpoint Name				AllFiles
+File Name				contrib\balloonmanagerdemo\com\sun\jna\contrib\demo\BalloonManager.java
+Lines					252*
+Statements				149
+Percent Branch Statements		2.7
+Method Call Statements			77
+Percent Lines with Comments		7.5
+Classes and Interfaces			5
+Methods per Class			3.00
+Average Statements per Method		6.20
+Line Number of Most Complex Method	81
+Name of Most Complex Method		DropShadow.DropShadow()
+Maximum Complexity			6*
+Line Number of Deepest Block		124
+Maximum Block Depth			4
+Average Block Depth			2.34
+Average Complexity			1.73*
+
+--------------------------------------------------------------------------------------------
+Most Complex Methods in 5 Class(es):	Complexity, Statements, Max Depth, Calls
+
+?(instance of ComponentAdapter).componentMoved()	1*, 2, 4, 4
+?(instance of Point).hide()		1*, 2, 4, 2
+?(instance of Point).show()		1*, 6, 4, 4
+BalloonManager.getBalloon()		3*, 3, 4, 2
+BalloonManager.useDropShadow()		1*, 1, 2, 1
+BubbleWindow.BubbleWindow()		2*, 13, 4, 12
+BubbleWindow.dispose()			1*, 2, 3, 2
+BubbleWindow.getMask()			1*, 9, 3, 5
+BubbleWindow.getPreferredSize()		1*, 3, 3, 1
+BubbleWindow.setAnchorLocation()	2*, 5, 4, 4
+BubbleWindow.setBounds()		3*, 6, 4, 5
+DropShadow.DropShadow()			6*, 15, 4, 15
+DropShadow.getMask()			1*, 13, 3, 10
+DropShadow.getPreferredSize()		1*, 4, 3, 1
+DropShadow.paint()			1*, 5, 3, 7
+
+--------------------------------------------------------------------------------------------
+Block Depth				Statements
+
+0					26
+1					4
+2					30
+3					71
+4					18
+5					0
+6					0
+7					0
+8					0
+9+					0
+--------------------------------------------------------------------------------------------
+
+
+9. Metrics Details For File 'app\src\main\java\com\lxj\xpopupdemo\fragment\CustomPopupDemo.java'
+--------------------------------------------------------------------------------------------
+
+Parameter				Value
+=========				=====
+Project Directory			C:\Users\Alekhya Changelpet\Desktop\Sem 1\Object Oriented Development\Group Assignmemt\Assign2\Programs\XPopup-master\
+Project Name				
+Checkpoint Name				AllFiles
+File Name				app\src\main\java\com\lxj\xpopupdemo\fragment\CustomPopupDemo.java
+Lines					123*
+Statements				63
+Percent Branch Statements		1.6
+Method Call Statements			17
+Percent Lines with Comments		18.7
+Classes and Interfaces			5
+Methods per Class			1.80
+Average Statements per Method		2.56
+Line Number of Most Complex Method	114
+Name of Most Complex Method		CustomPopup2.onCreate()
+Maximum Complexity			4*
+Line Number of Deepest Block		86
+Maximum Block Depth			5
+Average Block Depth			1.56
+Average Complexity			1.56*
+
+--------------------------------------------------------------------------------------------
+Most Complex Methods in 4 Class(es):	Complexity, Statements, Max Depth, Calls
+
+?(instance of OnClickListener).onClick()	1*, 1, 5, 1
+CustomPopup.CustomPopup()		1*, 1, 3, 1
+CustomPopup.getImplLayoutId()		1*, 1, 3, 0
+CustomPopup.onCreate()			1*, 2, 5, 1
+CustomPopup2.CustomPopup2()		1*, 1, 3, 1
+CustomPopup2.getImplLayoutId()		1*, 1, 3, 0
+CustomPopup2.onCreate()			4*, 7, 4, 6
+CustomPopupDemo.getLayoutId()		1*, 1, 2, 0
+CustomPopupDemo.init()			3*, 6, 2, 6
+
+--------------------------------------------------------------------------------------------
+Block Depth				Statements
+
+0					20
+1					9
+2					18
+3					12
+4					3
+5					1
+6					0
+7					0
+8					0
+9+					0
+--------------------------------------------------------------------------------------------
+
+
+
+10. Metrics Details For File 'src\main\java\com\zzg\mybatis\generator\controller\MainUIController.java'
+--------------------------------------------------------------------------------------------
+
+Parameter				Value
+=========				=====
+Project Directory			C:\Users\Alekhya Changelpet\Desktop\Sem 1\Object Oriented Development\Group Assignmemt\Assign2\Programs\mybatis-generator-gui-master\
+Project Name				
+Checkpoint Name				AllFiles
+File Name				src\main\java\com\zzg\mybatis\generator\controller\MainUIController.java
+Lines					528*
+Statements				455
+Percent Branch Statements		10.1
+Method Call Statements			233
+Percent Lines with Comments		2.7
+Classes and Interfaces			1
+Methods per Class			26.00
+Average Statements per Method		12.54
+Line Number of Most Complex Method	121
+Name of Most Complex Method		MainUIController.displayTables()
+Maximum Complexity			10*
+Line Number of Deepest Block		185
+Maximum Block Depth			7
+Average Block Depth			2.45
+Average Complexity			3.77*
+
+--------------------------------------------------------------------------------------------
+Most Complex Methods in 4 Class(es):	Complexity, Statements, Max Depth, Calls
+
+?(instance of Task<Void>).call()	1*, 2, 6, 1
+initialize().configsLabel.setOnMouseClicked()	1*, 3, 3, 3
+initialize().connectionLabel.setOnMouseClicked()	1*, 3, 3, 3
+initialize().filterTreeBox.addEventHandler()	2*, 4, 4, 4
+initialize().leftDBTree.setCellFactory(()	7*, 24, 7, 15
+initialize().useExample.setOnMouseClicked()	3*, 4, 4, 3
+leftDBTree.setCellFactory(().cell.addEventHandler()	7*, 22, 7, 15
+MainUIController.checkDirs()		9*, 25, 7, 12
+MainUIController.chooseProjectFolder()	2*, 4, 3, 2
+MainUIController.displayTables()	10*, 39, 5, 28
+MainUIController.generateCode()		8*, 9, 5, 5
+MainUIController.getGeneratorConfigFromUI()	1*, 28, 2, 26
+MainUIController.initialize()		10*, 28, 7, 18
+MainUIController.loadLeftDBTree()	3*, 16, 4, 13
+MainUIController.openTableColumnCustomizationPage()	4*, 14, 4, 12
+MainUIController.openTargetFolder()	1*, 5, 3, 4
+MainUIController.saveGeneratorConfig()	4*, 18, 4, 14
+MainUIController.setColumnOverrides()	1*, 1, 2, 0
+MainUIController.setGeneratorConfigIntoUI()	2*, 27, 3, 28
+MainUIController.setIgnoredColumns()	1*, 1, 2, 0
+MainUIController.setTooltip()		1*, 10, 2, 10
+MainUIController.validateConfig()	4*, 8, 3, 8
+
+--------------------------------------------------------------------------------------------
+Block Depth				Statements
+
+0					42
+1					87
+2					145
+3					69
+4					58
+5					29
+6					21
+7					4
+8					0
+9+					0
+--------------------------------------------------------------------------------------------
